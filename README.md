@@ -44,3 +44,11 @@ it says eight spaces can also do the same thing
   just
   two
   spaces?
+  
+### task lists
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+- [ ] \(Optional) Open a followup issue
+- [ ] (Optional) Open a followup issue
