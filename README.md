@@ -56,3 +56,6 @@ it says eight spaces can also do the same thing
 ### using emoji
 use ":"
 :+1:   :shit:
+
+### ignoring markdown formatting
+Let's rename \*our-new-project\* to \*our-old-project\*.
