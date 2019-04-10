@@ -1,5 +1,5 @@
 # blog
-dy的博客
+dy的博客: [reference](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings)
 
 ### styling text
 **test content is bold**
@@ -52,3 +52,7 @@ it says eight spaces can also do the same thing
 - [ ] Open a pull request
 - [ ] \(Optional) Open a followup issue
 - [ ] (Optional) Open a followup issue
+
+### using emoji
+use ":"
+:+1:   :shit:
