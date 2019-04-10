@@ -1,7 +1,7 @@
 # blog
 dy的博客
 
-#### styling text
+### styling text
 **test content is bold**
 
 *italic text*
@@ -12,7 +12,7 @@ dy的博客
 
 
 
-#### quoting text
+### quoting text
 > quote text
 
 Use `git status` to list all new or modifid files that haven't yet been committed.
@@ -26,17 +26,18 @@ git push
 git commit
 ```
 
-
 it says eight spaces can also do the same thing
 
         try
         eigh
         spaces
 
+
     do
     four
     spaces
     work?
+
 
   or
   maybe
